@@ -24,8 +24,7 @@ The final stage of the pipeline is data loading, where the transformed output is
 
 Overall, this data pipeline demonstrates a production-oriented approach to ETL, emphasizing automation, robustness, and reproducibility. By leveraging Pandas for data manipulation and Scikit-learn for preprocessing and transformation, the pipeline adheres to industry best practices and provides a strong foundation for scalable machine learning development.
 
-
-#OUTPUT
+# OUTPUT
 
 <img width="1849" height="564" alt="Image" src="https://github.com/user-attachments/assets/a661b4ee-f1da-4420-91f2-95be1651bd02" />
 
