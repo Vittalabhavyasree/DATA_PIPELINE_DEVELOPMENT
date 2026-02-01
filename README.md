@@ -27,3 +27,8 @@ Overall, this data pipeline demonstrates a production-oriented approach to ETL, 
 
 #OUTPUT
 
+<img width="1849" height="564" alt="Image" src="https://github.com/user-attachments/assets/a661b4ee-f1da-4420-91f2-95be1651bd02" />
+
+<img width="712" height="1149" alt="Image" src="https://github.com/user-attachments/assets/5a356f33-443f-4d68-999d-5eb7d02e0bb3" />
+
+<img width="423" height="841" alt="Image" src="https://github.com/user-attachments/assets/22fd8b26-7cfa-43dc-835a-b226501cda78" />
